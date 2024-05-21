@@ -15,8 +15,8 @@
 ## Sobre Mim
 
 - 🎓 Estudante de Ciências da computação na universidade da UNIPE.
-- 🔭 Atualmente trabalhando em projetos de criação de dashboards, aplicações fornt-end.
-- 🌱 Aprendendo mais sobre back-end e front-end, em busca de ser um full stack .
+- 🔭 Atualmente trabalhando em projetos de criação de dashboards, aplicações front-end.
+- 🌱 Aprendendo mais sobre as boas praticas back-end e front-end e buscando evoluir minhas habilidades como um full stack .
 - ⚡ Curiosidade: em apenas 2 anos no mundo da programação, ja desenvolvi mais de 30 projetos pessoais no github, muitos deles feito indivualmente, gosto sempre de aprender coisas novas, seja por rob, deveres da faculdade ou até mesmo necessidade de uso.
 
 ---
