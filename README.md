@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Alvaro  👋</h1>
 
 <p align="center">
-  <img src="https://github.com/AlvaroDeCarvalho/servidor_estatico/blob/main/imagens/Captura%20de%20tela%202024-12-03%20000854.png?raw=true" alt="Bem-vindo ao meu GitHub!">
+  <img src="https://github.com/AlvaroDeCarvalho/servidor_estatico/blob/main/imagens/Captura%20de%20tela%202024-12-03%20001929.png" alt="Bem-vindo ao meu GitHub!">
 </p>
 
 <p align="center">
