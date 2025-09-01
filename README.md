@@ -15,9 +15,9 @@
 ## Sobre Mim
 
 - 🎓 Estudante de Ciências da computação na universidade da UNIPE.
-- 🔭 Atualmente trabalhando em projetos de criação de dashboards, aplicações front-end.
-- 🌱 Aprendendo mais sobre as boas praticas back-end e front-end e buscando evoluir minhas habilidades como um full stack .
-- ⚡ Curiosidade: em apenas 2 anos no mundo da programação, ja desenvolvi mais de 30 projetos pessoais no github, muitos deles feito indivualmente, gosto sempre de aprender coisas novas, seja por rob, deveres da faculdade ou até mesmo necessidade de uso.
+- 🔭 Desenvolvedor Fullstack (React, React Native, Vue) / (Node.js, Spring).
+- 🌱 Desevolvendo minha empresa e me aprimorando no mercado de trabalho cada dia mais.
+- ⚡ Curiosidade: com 1 ano de mercado ja tenho atribuições de pleno, e também ja fundei minha propia empresa de desevolvimento.
 
 ---
 
@@ -44,14 +44,7 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
 </p>
 
----
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroDeCarvalho&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDeCarvalho&layout=compact&theme=radical" alt="Linguagens mais usadas">
-</p>
 
 ---
 
